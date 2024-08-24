@@ -15,4 +15,4 @@
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/A_Develop) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amir.dev_)
 
 ### Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=SAMURAI-007&show_icons=true&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api?username=SAMURAI-007&show_icons=true&theme=radical&hide_rank=true" />
